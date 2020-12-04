@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e087dda3-c60b-41b3-90e9-940e171d10c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ipCalc/ipCalc.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,5 +57,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Addde ip calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addde ip calculator" />
   </component>
 </project>
